@@ -1,0 +1,33 @@
+body{
+    background-image: url(imagenes/fondo3.jpg);
+}
+
+h3{
+    display: block;   
+    width: 200px;   
+    margin: auto;   
+    padding: 15px;   
+    text-align: center;   
+    border: 1px solid #999999;   
+    background-color: black;
+    color: white;
+}
+
+section{
+    text-align: center;
+    font-style: oblique;
+    font-weight: 300;
+}
+
+footer{
+    text-align: center;
+    font-style: oblique;
+    font-weight: 300;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    padding-left: 45%;
+}
